@@ -482,7 +482,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.viana-do-castelo@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -490,10 +490,131 @@
    "url": "https://vianatv.pt/festival-de-teatro-de-viana-do-castelo-reune-mais-de-2-200-espectadores-na-10-a-edicao/",
    "source": "Viana TV",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T02:29:53Z",
+   "read_at": "2026-11-26T11:13:08Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Assaltantes entram pelo telhado de hipermercado em Darque e levam tabaco",
+    "url": "https://auroradolima.com/viana-do-castelo/assaltantes-entram-pelo-telhado-de-hipermercado-em-darque-e-levam-tabaco/",
+    "published": "2026-11-26T11:00Z",
+    "source": "A Aurora do Lima",
+    "source_site": "https://auroradolima.com/",
+    "feed": "https://auroradolima.com/feed/",
+    "read_at": "2026-11-26T11:12:37Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Taça de Portugal: Jogo entre Vianense e Mafra joga-se a uma quarta-feira",
+    "url": "https://radiogeice.com/2026/11/taca-de-portugal-jogo-entre-vianense-e-mafra-joga-se-a-uma-quarta-feira/",
+    "published": "2026-11-26T10:53Z",
+    "source": "Rádio Geice",
+    "source_site": "https://radiogeice.com/",
+    "feed": "https://radiogeice.com/feed/",
+    "read_at": "2026-11-26T11:12:50Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Viana Camping aumenta investimento para 4,5 milhões de euros",
+    "url": "https://radioaltominho.pt/noticias/viana-camping-aumenta-investimento-para-45-milhoes-de-euros/",
+    "published": "2026-11-26T10:41Z",
+    "source": "Rádio Alto Minho",
+    "source_site": "https://radioaltominho.pt/",
+    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
+    "read_at": "2026-11-26T11:12:45Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "A mentira precisa de quem a cria, mas também de quem a legitima",
+    "url": "https://noticiasdeviana.pt/a-mentira-precisa-de-quem-a-cria-mas-tambem-de-quem-a-legitima/",
+    "published": "2026-11-26T10:25Z",
+    "source": "Notícias de Viana",
+    "source_site": "https://noticiasdeviana.pt/",
+    "feed": "https://noticiasdeviana.pt/feed/",
+    "read_at": "2026-11-26T11:12:39Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Os imperadores de hoje e a Europa e o mundo em silêncio",
+    "url": "https://auroradolima.com/opiniao/os-imperadores-de-hoje-e-a-europa-e-o-mundo-em-silencio/",
+    "published": "2026-11-26T10:18Z",
+    "source": "A Aurora do Lima",
+    "source_site": "https://auroradolima.com/",
+    "feed": "https://auroradolima.com/feed/",
+    "read_at": "2026-11-26T11:12:37Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Afinal, o que incomoda mais?",
+    "url": "https://auroradolima.com/opiniao/afinal-o-que-incomoda-mais/",
+    "published": "2026-11-26T10:16Z",
+    "source": "A Aurora do Lima",
+    "source_site": "https://auroradolima.com/",
+    "feed": "https://auroradolima.com/feed/",
+    "read_at": "2026-11-26T11:12:37Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Ficar sem chão",
+    "url": "https://auroradolima.com/opiniao/ficar-sem-chao/",
+    "published": "2026-11-26T10:15Z",
+    "source": "A Aurora do Lima",
+    "source_site": "https://auroradolima.com/",
+    "feed": "https://auroradolima.com/feed/",
+    "read_at": "2026-11-26T11:12:37Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "A corrupção que anda por aí!",
+    "url": "https://auroradolima.com/opiniao/a-corrupcao-que-anda-por-ai/",
+    "published": "2026-11-26T10:14Z",
+    "source": "A Aurora do Lima",
+    "source_site": "https://auroradolima.com/",
+    "feed": "https://auroradolima.com/feed/",
+    "read_at": "2026-11-26T11:12:37Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "O que fizeram os vianenses ao “Castelo”?",
+    "url": "https://auroradolima.com/opiniao/o-que-fizeram-os-vianenses-ao-castelo/",
+    "published": "2026-11-26T10:14Z",
+    "source": "A Aurora do Lima",
+    "source_site": "https://auroradolima.com/",
+    "feed": "https://auroradolima.com/feed/",
+    "read_at": "2026-11-26T11:12:37Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Ataque de lobo ibérico Geraz do Lima provoca a morte de 10 ovelhas e deixa sete borregos desaparecidos",
+    "url": "https://radiogeice.com/2026/11/ataque-de-lobo-iberico-geraz-do-lima-provoca-a-morte-de-10-ovelhas-e-deixa-sete-borregos-desaparecidos/",
+    "published": "2026-11-26T10:01Z",
+    "source": "Rádio Geice",
+    "source_site": "https://radiogeice.com/",
+    "feed": "https://radiogeice.com/feed/",
+    "read_at": "2026-11-26T11:12:50Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Câmara de Viana avança com construção de T1 para suprir necessidades de habitação municipal",
+    "url": "https://radioaltominho.pt/noticias/camara-de-viana-avanca-com-construcao-de-t1-para-suprir-necessidades-de-habitacao-municipal/",
+    "published": "2026-11-26T09:34Z",
+    "source": "Rádio Alto Minho",
+    "source_site": "https://radioaltominho.pt/",
+    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
+    "read_at": "2026-11-26T11:12:45Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
    {
     "title": "Festival de Teatro de Viana do Castelo reúne mais de 2.200 espectadores na 10.ª edição",
     "url": "https://vianatv.pt/festival-de-teatro-de-viana-do-castelo-reune-mais-de-2-200-espectadores-na-10-a-edicao/",
@@ -501,7 +622,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:53Z",
+    "read_at": "2026-11-26T11:13:08Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -512,7 +633,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:53Z",
+    "read_at": "2026-11-26T11:13:08Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -523,7 +644,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:53Z",
+    "read_at": "2026-11-26T11:13:08Z",
     "mentions_place": true,
     "date": "2026-11-26"
    },
@@ -534,7 +655,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:53Z",
+    "read_at": "2026-11-26T11:13:08Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -545,7 +666,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:53Z",
+    "read_at": "2026-11-26T11:13:08Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -556,42 +677,9 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-26T02:29:53Z",
+    "read_at": "2026-11-26T11:13:08Z",
     "mentions_place": false,
     "date": "2026-11-26"
-   },
-   {
-    "title": "Do profissional à UNIPVC: entrou com a nota mais alta e terminou o curso com a melhor classificação",
-    "url": "https://vianaaominuto.pt/do-profissional-a-unipvc-entrou-com-a-nota-mais-alta-e-terminou-o-curso-com-a-melhor-classificacao/",
-    "published": "2026-11-25T21:06Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-26T02:29:49Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "OPINIÃO: Ana Marta Soares",
-    "url": "https://vianaaominuto.pt/opiniao-ana-marta-soares/",
-    "published": "2026-11-25T21:00Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-26T02:29:49Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "VCV, Daniel Moreira, Francisco Trincão e Marta Lisboeta distinguidos nos Troféus “O Minhoto”",
-    "url": "https://vianaaominuto.pt/vcv-daniel-moreira-francisco-trincao-e-marta-lisboeta-distinguidos-nos-trofeus-o-minhoto/",
-    "published": "2026-11-25T18:18Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-26T02:29:49Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
    },
    {
     "title": "Arcos de Valdevez recebeu o Selo Progresso Global. Mas o que significa esta distinção?",
@@ -600,7 +688,7 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-26T02:29:30Z",
+    "read_at": "2026-11-26T11:12:39Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -611,7 +699,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-26T02:29:39Z",
+    "read_at": "2026-11-26T11:12:50Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -622,7 +710,7 @@
     "source": "Rádio Alto Minho",
     "source_site": "https://radioaltominho.pt/",
     "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-26T02:29:36Z",
+    "read_at": "2026-11-26T11:12:45Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -633,18 +721,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-26T02:29:39Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Alto Minho na rota do narcotráfico: 8 detidos e 3 lanchas apreendidas em megaoperação da GNR",
-    "url": "https://auroradolima.com/featured/alto-minho-na-rota-do-narcotrafico-8-detidos-e-3-lanchas-apreendidas-em-megaoperacao-da-gnr/",
-    "published": "2026-11-25T16:06Z",
-    "source": "A Aurora do Lima",
-    "source_site": "https://auroradolima.com/",
-    "feed": "https://auroradolima.com/feed/",
-    "read_at": "2026-11-26T02:29:28Z",
+    "read_at": "2026-11-26T11:12:50Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -655,7 +732,7 @@
     "source": "Rádio Alto Minho",
     "source_site": "https://radioaltominho.pt/",
     "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-26T02:29:36Z",
+    "read_at": "2026-11-26T11:12:45Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -666,29 +743,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-26T02:29:39Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "ManifestAM assinala Dia Internacional para a Eliminação da Violência contra as mulheres",
-    "url": "https://auroradolima.com/featured/manifestam-assinala-dia-internacional-para-a-eliminacao-da-violencia-contra-as-mulheres/",
-    "published": "2026-11-25T15:52Z",
-    "source": "A Aurora do Lima",
-    "source_site": "https://auroradolima.com/",
-    "feed": "https://auroradolima.com/feed/",
-    "read_at": "2026-11-26T02:29:28Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Viana recebe especialistas de cinco países para “fermentar o futuro”",
-    "url": "https://auroradolima.com/viana-do-castelo/viana-recebe-especialistas-de-cinco-paises-para-fermentar-o-futuro/",
-    "published": "2026-11-25T15:22Z",
-    "source": "A Aurora do Lima",
-    "source_site": "https://auroradolima.com/",
-    "feed": "https://auroradolima.com/feed/",
-    "read_at": "2026-11-26T02:29:28Z",
+    "read_at": "2026-11-26T11:12:50Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -699,7 +754,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-26T02:29:39Z",
+    "read_at": "2026-11-26T11:12:50Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -710,7 +765,7 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-26T02:29:30Z",
+    "read_at": "2026-11-26T11:12:39Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -721,18 +776,7 @@
     "source": "Rádio Alto Minho",
     "source_site": "https://radioaltominho.pt/",
     "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-26T02:29:36Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Câmara de Viana apoia com 43.500 euros obras de renovação da teia técnica do palco da SIRC",
-    "url": "https://radiogeice.com/2026/11/camara-de-viana-apoia-com-43-500-euros-obras-de-renovacao-da-teia-tecnica-do-palco-da-sirc/",
-    "published": "2026-11-25T14:50Z",
-    "source": "Rádio Geice",
-    "source_site": "https://radiogeice.com/",
-    "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-26T02:29:39Z",
+    "read_at": "2026-11-26T11:12:45Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -743,51 +787,7 @@
     "source": "Rádio Alto Minho",
     "source_site": "https://radioaltominho.pt/",
     "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-26T02:29:36Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Câmara de Viana apoia RAV na aquisição de nova viatura",
-    "url": "https://radioaltominho.pt/noticias/camara-de-viana-apoia-rav-na-aquisicao-de-nova-viatura/",
-    "published": "2026-11-25T14:28Z",
-    "source": "Rádio Alto Minho",
-    "source_site": "https://radioaltominho.pt/",
-    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-26T02:29:36Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Benjamin Clementina regressa a Viana do Castelo a 3 de abril",
-    "url": "https://radiogeice.com/2026/11/benjamin-clementina-regressa-a-viana-do-castelo-a-3-de-abril/",
-    "published": "2026-11-25T14:18Z",
-    "source": "Rádio Geice",
-    "source_site": "https://radiogeice.com/",
-    "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-26T02:29:39Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Benjamin Clementine atua em Viana do Castelo a 3 de abril",
-    "url": "https://radioaltominho.pt/noticias/benjamin-clementine-atua-em-viana-do-castelo-a-3-de-abril/",
-    "published": "2026-11-25T14:13Z",
-    "source": "Rádio Alto Minho",
-    "source_site": "https://radioaltominho.pt/",
-    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-26T02:29:36Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "GNR assinala Dia Internacional pela Eliminação da Violência contra as Mulheres",
-    "url": "https://vianaaominuto.pt/gnr-assinala-dia-internacional-pela-eliminacao-da-violencia-contra-as-mulheres/",
-    "published": "2026-11-25T13:47Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-26T02:29:49Z",
+    "read_at": "2026-11-26T11:12:45Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -798,31 +798,31 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-26T02:29:30Z",
+    "read_at": "2026-11-26T11:12:39Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
    {
-    "title": "Aprovado apoio de 43.500 euros para a renovação da teia técnica do palco da SIRC",
-    "url": "https://vianaaominuto.pt/aprovado-apoio-de-43-500-euros-para-a-renovacao-da-teia-tecnica-do-palco-da-sirc/",
-    "published": "2026-11-25T13:21Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-26T02:29:49Z",
+    "title": "CAMARA DE VIANA ATRIBUI VERBA Á SOCIEDADE DE CARREÇO",
+    "url": "https://radioafifense.pt/camara-de-viana-atribui-verba-a-sociedade-de-carreco/",
+    "published": "2026-11-25T12:38Z",
+    "source": "Rádio Afifense",
+    "source_site": "https://radioafifense.pt/",
+    "feed": "https://radioafifense.pt/feed/",
+    "read_at": "2026-11-26T11:12:43Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
    {
-    "title": "Viana: Câmara apoia a RAV na aquisição de nova viatura",
-    "url": "https://vianaaominuto.pt/viana-camara-apoia-a-rav-na-aquisicao-de-nova-viatura/",
-    "published": "2026-11-25T12:57Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-26T02:29:49Z",
+    "title": "Projeto Acelerar o Norte procura impulsionar a transformação digital das empresas do Alto Minho",
+    "url": "https://noticiasdeviana.pt/projeto-acelerar-o-norte-procura-impulsionar-a-transformacao-digital-das-empresas-do-alto-minho/",
+    "published": "2026-11-24T17:28Z",
+    "source": "Notícias de Viana",
+    "source_site": "https://noticiasdeviana.pt/",
+    "feed": "https://noticiasdeviana.pt/feed/",
+    "read_at": "2026-11-26T11:12:39Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-24"
    }
   ]
  }
