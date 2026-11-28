@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.viana-do-castelo@PrompTugal.dinis",
  "mandate": "PrompTugal.news Viana do Castelo: AI and technology in Viana do Castelo, a port city whose centre of gravity is its polytechnic, a data-innovation laboratory and a new factory for data-centre equipment, and what reaches Viana do Castelo from the Alto Minho, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -482,7 +482,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.viana-do-castelo@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -490,32 +490,10 @@
    "url": "https://vianatv.pt/carlota-borges-representa-viana-do-castelo-no-20-o-forum-residuos/",
    "source": "Viana TV",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:27:21Z",
+   "read_at": "2026-11-28T07:26:54Z",
    "names_place": true
   },
   "items": [
-   {
-    "title": "Aberto na totalidade o acesso da A28 ao nó da nova via do Vale do Neiva",
-    "url": "https://vianaaominuto.pt/aberto-na-totalidade-o-acesso-da-a28-ao-no-da-nova-via-do-vale-do-neiva/",
-    "published": "2026-11-27T18:20Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-27T18:27:18Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Já está totalmente aberto o acesso da A28 ao novo nó da Via do Vale do Neiva",
-    "url": "https://radioaltominho.pt/noticias/ja-esta-totalmente-aberto-o-acesso-da-a28-ao-novo-no-da-via-do-vale-do-neiva/",
-    "published": "2026-11-27T18:15Z",
-    "source": "Rádio Alto Minho",
-    "source_site": "https://radioaltominho.pt/",
-    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-27T18:27:03Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
    {
     "title": "UNIPVC conquista dois primeiros prémios de investigação da Ordem dos Enfermeiros no Norte",
     "url": "https://vianatv.pt/unipvc-conquista-dois-primeiros-premios-de-investigacao-da-ordem-dos-enfermeiros-no-norte/",
@@ -523,7 +501,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-27T18:27:21Z",
+    "read_at": "2026-11-28T07:26:54Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -534,7 +512,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-27T18:27:21Z",
+    "read_at": "2026-11-28T07:26:54Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -545,7 +523,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-27T18:27:21Z",
+    "read_at": "2026-11-28T07:26:54Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -556,29 +534,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-27T18:27:21Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Docentes da UNIPVC premiadas por investigação sobre perda gestacional e hemodiálise",
-    "url": "https://vianaaominuto.pt/docentes-da-unipvc-premiados-por-investigacao-sobre-perda-gestacional-e-hemodialise/",
-    "published": "2026-11-27T16:50Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-27T18:27:18Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Luís Nobre desafia Ministra da Cultura a assistir ao filme “Viana” na capital do Alto Minho",
-    "url": "https://vianaaominuto.pt/luis-nobre-desafia-ministra-da-cultura-a-assistir-ao-filme-viana-na-capital-do-alto-minho/",
-    "published": "2026-11-27T16:39Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-27T18:27:18Z",
+    "read_at": "2026-11-28T07:26:54Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -589,18 +545,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-27T18:27:06Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Luís Nobre convida Ministra da Cultura para assistir ao filme “Viana A Lenda dos Corações de Ouro”",
-    "url": "https://radioaltominho.pt/noticias/luis-nobre-convida-ministra-da-cultura-para-assistir-ao-filme-viana-a-lenda-dos-coracoes-de-ouro/",
-    "published": "2026-11-27T16:04Z",
-    "source": "Rádio Alto Minho",
-    "source_site": "https://radioaltominho.pt/",
-    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-27T18:27:03Z",
+    "read_at": "2026-11-28T07:26:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -611,18 +556,7 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-27T18:26:59Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Coreógrafa vianense vence prémio da Sociedade Portuguesa de Autores",
-    "url": "https://radioaltominho.pt/noticias/coreografa-vianense-vence-premio-da-sociedade-portuguesa-de-autores/",
-    "published": "2026-11-27T14:59Z",
-    "source": "Rádio Alto Minho",
-    "source_site": "https://radioaltominho.pt/",
-    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-27T18:27:03Z",
+    "read_at": "2026-11-28T07:26:32Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -633,7 +567,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-27T18:27:06Z",
+    "read_at": "2026-11-28T07:26:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -644,7 +578,7 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-27T18:26:59Z",
+    "read_at": "2026-11-28T07:26:32Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -655,7 +589,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-27T18:27:21Z",
+    "read_at": "2026-11-28T07:26:54Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -666,7 +600,7 @@
     "source": "Viana TV",
     "source_site": "https://www.vianatv.pt",
     "feed": "https://www.vianatv.pt/feed/",
-    "read_at": "2026-11-27T18:27:21Z",
+    "read_at": "2026-11-28T07:26:54Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -677,40 +611,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-27T18:27:06Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Eduardo Teixeira em Barcelona para visita institucional à União para o Mediterrâneo",
-    "url": "https://vianaaominuto.pt/eduardo-teixeira-em-barcelona-para-visita-institucional-a-uniao-para-o-mediterraneo/",
-    "published": "2026-11-27T13:19Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-27T18:27:18Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Irmãs Inês e Sofia Rodrigues vencem medalha de ouro no Nacional das Primeiras Pagaiadas",
-    "url": "https://vianaaominuto.pt/irmas-ines-e-sofia-rodrigues-vencem-medalha-de-ouro-no-nacional-das-primeiras-pagaiadas/",
-    "published": "2026-11-27T13:12Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-27T18:27:18Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Idade da reforma sobe para os 67 anos em 2028",
-    "url": "https://radioaltominho.pt/noticias/idade-da-reforma-sobe-para-os-67-anos-em-2028/",
-    "published": "2026-11-27T12:55Z",
-    "source": "Rádio Alto Minho",
-    "source_site": "https://radioaltominho.pt/",
-    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-27T18:27:03Z",
+    "read_at": "2026-11-28T07:26:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -721,7 +622,7 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-27T18:26:59Z",
+    "read_at": "2026-11-28T07:26:32Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -732,18 +633,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-27T18:27:06Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Docentes da UNIPVC distinguidas no Encontro Científico de Investigação em Enfermagem",
-    "url": "https://radioaltominho.pt/noticias/docentes-da-unipvc-distinguidas-no-encontro-cientifico-de-investigacao-em-enfermagem/",
-    "published": "2026-11-27T12:09Z",
-    "source": "Rádio Alto Minho",
-    "source_site": "https://radioaltominho.pt/",
-    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-27T18:27:03Z",
+    "read_at": "2026-11-28T07:26:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -754,7 +644,7 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-27T18:26:59Z",
+    "read_at": "2026-11-28T07:26:32Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -765,7 +655,7 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-27T18:27:06Z",
+    "read_at": "2026-11-28T07:26:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -776,18 +666,7 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-27T18:26:59Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Melgaço reduz em 20 minutos o tempo de chegada a zonas de difícil acesso",
-    "url": "https://radioaltominho.pt/noticias/melgaco-reduz-em-20-minutos-o-tempo-de-chegada-a-zonas-de-dificil-acesso/",
-    "published": "2026-11-27T10:19Z",
-    "source": "Rádio Alto Minho",
-    "source_site": "https://radioaltominho.pt/",
-    "feed": "https://radioaltominho.pt/feed/?post_type=noticias",
-    "read_at": "2026-11-27T18:27:03Z",
+    "read_at": "2026-11-28T07:26:32Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -798,20 +677,9 @@
     "source": "Rádio Geice",
     "source_site": "https://radiogeice.com/",
     "feed": "https://radiogeice.com/feed/",
-    "read_at": "2026-11-27T18:27:06Z",
+    "read_at": "2026-11-28T07:26:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
-   },
-   {
-    "title": "Creche de Deocriste vai ter projeto piloto de capacitação",
-    "url": "https://vianaaominuto.pt/creche-de-deocriste-vai-ter-projeto-piloto-de-capacitacao/",
-    "published": "2026-11-26T21:23Z",
-    "source": "Viana ao Minuto",
-    "source_site": "https://vianaaominuto.pt",
-    "feed": "https://vianaaominuto.pt/feed/",
-    "read_at": "2026-11-27T18:27:18Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
    },
    {
     "title": "Da música à leitura, Bairro Cultural da UNIPVC abre espaço a todas as formas de expressão",
@@ -820,9 +688,75 @@
     "source": "Notícias de Viana",
     "source_site": "https://noticiasdeviana.pt/",
     "feed": "https://noticiasdeviana.pt/feed/",
-    "read_at": "2026-11-27T18:26:59Z",
+    "read_at": "2026-11-28T07:26:32Z",
     "mentions_place": false,
     "date": "2026-11-26"
+   },
+   {
+    "title": "Atividade operacional do Comando Distrital de Viana do Castelo",
+    "url": "https://terrasdevianadocastelo.sapo.pt/noticias/atividade-operacional-do-comando-distrital-de-viana-do-castelo",
+    "published": null,
+    "source": "Terras de Viana do Castelo",
+    "source_site": "https://terrasdevianadocastelo.sapo.pt",
+    "feed": "https://terrasdevianadocastelo.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:26:48Z",
+    "mentions_place": true,
+    "date": null
+   },
+   {
+    "title": "Praça da República prepara-se para a magia do Natal",
+    "url": "https://terrasdevianadocastelo.sapo.pt/noticias/praca-da-republica-prepara-se-para-a-magia-do-natal",
+    "published": null,
+    "source": "Terras de Viana do Castelo",
+    "source_site": "https://terrasdevianadocastelo.sapo.pt",
+    "feed": "https://terrasdevianadocastelo.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:26:48Z",
+    "mentions_place": false,
+    "date": null
+   },
+   {
+    "title": "Autarquia atribui bilhetes a crianças das escolas para o filme “Viana, A Lenda dos Corações de Ouro”",
+    "url": "https://terrasdevianadocastelo.sapo.pt/noticias/autarquia-atribui-bilhetes-a-criancas-das-escolas-para-o-filme-viana-a-lenda-dos-coracoes-de-ouro",
+    "published": null,
+    "source": "Terras de Viana do Castelo",
+    "source_site": "https://terrasdevianadocastelo.sapo.pt",
+    "feed": "https://terrasdevianadocastelo.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:26:48Z",
+    "mentions_place": false,
+    "date": null
+   },
+   {
+    "title": "Projeto Piloto para Creche de Deocriste arranca em janeiro de 2027",
+    "url": "https://terrasdevianadocastelo.sapo.pt/noticias/projeto-piloto-para-creche-de-deocriste-arranca-em-janeiro-de-2027",
+    "published": null,
+    "source": "Terras de Viana do Castelo",
+    "source_site": "https://terrasdevianadocastelo.sapo.pt",
+    "feed": "https://terrasdevianadocastelo.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:26:48Z",
+    "mentions_place": false,
+    "date": null
+   },
+   {
+    "title": "Autarquia apoia obras de renovação da teia técnica do palco da SIRC",
+    "url": "https://terrasdevianadocastelo.sapo.pt/noticias/autarquia-apoia-obras-de-renovacao-da-teia-tecnica-do-palco-da-sirc",
+    "published": null,
+    "source": "Terras de Viana do Castelo",
+    "source_site": "https://terrasdevianadocastelo.sapo.pt",
+    "feed": "https://terrasdevianadocastelo.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:26:48Z",
+    "mentions_place": false,
+    "date": null
+   },
+   {
+    "title": "Viana do Castelo garante 101 galardoados n’“O Minhoto– Troféus desportivos”",
+    "url": "https://terrasdevianadocastelo.sapo.pt/noticias/viana-do-castelo-garante-101-galardoados-no-minhoto-trofeus-desportivos",
+    "published": null,
+    "source": "Terras de Viana do Castelo",
+    "source_site": "https://terrasdevianadocastelo.sapo.pt",
+    "feed": "https://terrasdevianadocastelo.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:26:48Z",
+    "mentions_place": true,
+    "date": null
    }
   ]
  }
